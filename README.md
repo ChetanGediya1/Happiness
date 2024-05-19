@@ -9,13 +9,12 @@ dependencyResolutionManagement {
 		}
 	}
 
-
- > Step 2. Add the dependency
+> Step 2. Add the dependency
 
    implementation 'com.github.ChetanGediya1:Happiness:1.0.0'
 
 
-  > Step 3. Code
+> Step 3. Code
 
   WildClass.createToast(this,"Hello World)
 
